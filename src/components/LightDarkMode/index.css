@@ -1,0 +1,23 @@
+/* Write your CSS here */
+*{
+  font-family:"Roboto";
+}
+
+.lighty {
+  text-align: center;
+  background-color: white;
+}
+.darky {
+  text-align: center;
+  background-color: black;
+}
+.light{
+  color:blackl;
+}
+.dark{
+  color:white;
+}
+button{
+  padding:5px;
+  border-radius: 5px;
+}
